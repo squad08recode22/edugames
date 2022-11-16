@@ -1,0 +1,12 @@
+.button{
+    background-color:rgb(247, 49, 49) ;
+    color:azure;
+    padding: 0.5em 1em;
+    text-decoration:dotted;
+    transition:0.5s;
+    border-radius: 0.5em;
+}
+
+.button:hover{
+    color:rgb(185, 185, 185);
+}

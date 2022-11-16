@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 1em;
+    
+}
+
+.list{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+.item {
+    margin-right: 3em;
+    font-weight: bolder;
+}
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+.item svg{
+    font-size: 1.2em ;
+    
+}
+
+
+.item a:hover {
+    border-bottom: 4px solid red;
+    color:white;
+  }
+
+
+
+
+

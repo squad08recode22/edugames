@@ -1,0 +1,9 @@
+.textwhite{
+    color:antiquewhite;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(54, 41, 241);
+    margin-left: 2em;
+    
+    
+    padding: 0.5em;
+}
