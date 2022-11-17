@@ -1,0 +1,15 @@
+C:\Users\Remakker\Documents\Edugames Api\bin\Debug\net6.0\Edugames Api.exe
+C:\Users\Remakker\Documents\Edugames Api\bin\Debug\net6.0\Edugames Api.deps.json
+C:\Users\Remakker\Documents\Edugames Api\bin\Debug\net6.0\Edugames Api.runtimeconfig.json
+C:\Users\Remakker\Documents\Edugames Api\bin\Debug\net6.0\Edugames Api.dll
+C:\Users\Remakker\Documents\Edugames Api\bin\Debug\net6.0\Edugames Api.pdb
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\Edugames Api.csproj.AssemblyReference.cache
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\Edugames Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\Edugames Api.AssemblyInfoInputs.cache
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\Edugames Api.AssemblyInfo.cs
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\Edugames Api.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\Edugames Api.dll
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\refint\Edugames Api.dll
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\Edugames Api.pdb
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\Edugames Api.genruntimeconfig.cache
+C:\Users\Remakker\Documents\Edugames Api\obj\Debug\net6.0\ref\Edugames Api.dll
