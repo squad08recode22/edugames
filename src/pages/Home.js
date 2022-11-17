@@ -10,7 +10,7 @@ function Home(){
         <h5 className={styles.text}>Aprender pode ser divertido!</h5>
            </div>
         <br/>
-        <Btn to="/jogos" text="Começar agora"/>
+        <Btn to="/jogos" text="Começar"/>
         
         <div>
         <img src={game} width="60%"/>
