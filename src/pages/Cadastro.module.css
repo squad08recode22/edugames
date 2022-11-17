@@ -1,0 +1,19 @@
+.cad_container{
+    width: 570px;
+    margin: 0 auto;
+    padding: 3em;
+    background-color: rgba(61, 61, 61, 0.226);
+    margin-top: 4em;
+    margin-bottom: 4em;
+    
+
+}
+
+.cad_container h1{
+    margin-bottom: 0.5em;
+    color: azure;
+}
+
+.cad_container p{
+    color: red;
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Loginboot.module.css';
-
+import Btn from './Btn';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 
@@ -26,6 +26,8 @@ function BasicExample() {
       <Button variant="primary" type="submit">
         Entrar
       </Button>
+      <br/><br/>
+      <Btn to="/cadastro" text="Cadastre-se"/>
     </Form>
   );
 }

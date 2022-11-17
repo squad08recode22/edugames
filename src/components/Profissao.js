@@ -66,7 +66,7 @@ function Profissao(){
        <Card style={{ width: '17rem' }} className={styles.card}>
       <Card.Img variant="top" src={artvisu} />
       <Card.Body className={styles.cardbody}>
-        <Card.Title>Artes</Card.Title>
+        <Card.Title>Artes Visuais</Card.Title>
         <Button variant="outline-dark">Acessar</Button>
       </Card.Body>
     </Card>

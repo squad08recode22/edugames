@@ -7,7 +7,7 @@ function Home(){
         <div className={styles.center}>
             <div>
         <h1 className={styles.textwhite}><strong>EDUGAMES+</strong></h1>
-        <h5 className={styles.text}>Aprender pode ser divertido!</h5>
+        <h5 className={styles.text}>Aprender é divertido!</h5>
            </div>
         <br/>
         <Btn to="/jogos" text="Começar agora"/>

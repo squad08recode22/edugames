@@ -5,8 +5,10 @@
     text-decoration:dotted;
     transition:0.5s;
     border-radius: 0.5em;
+    
 }
 
 .button:hover{
     color:rgb(185, 185, 185);
+    
 }

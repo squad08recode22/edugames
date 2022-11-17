@@ -65,7 +65,7 @@ function Cardjogo (){
       <Card.Img variant="top" src={geograf} />
       <Card.Body className={styles.cardbody}>
         <Card.Title>Geografia</Card.Title>
-        <Button variant="outline-dark">Começar</Button>
+        <a href="geoquiz.html" class="btn btn-outline-dark">Começar</a>
       </Card.Body>
     </Card>
         </div>

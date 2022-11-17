@@ -6,6 +6,7 @@ import Cursos from './pages/Cursos';
 import GuiaPro from './pages/Guiapro';
 import Login from './pages/Login';
 import Home from './pages/Home';
+import Cadastro from './pages/Cadastro';
 
 
 
@@ -21,6 +22,7 @@ function App() {
       <Route exact path="/cursos" element= {<Cursos/>}></Route>
       <Route exact path="/guia-de-profissoes" element= {<GuiaPro/>}></Route>
       <Route exact path="/login" element= {<Login/>}></Route>
+      <Route exact path = "/cadastro" element = {<Cadastro/>}></Route>
      </Routes>
   </div>   
 </Router>
